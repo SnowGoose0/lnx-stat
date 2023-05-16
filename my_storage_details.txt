@@ -1,0 +1,10 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  3.4M  6.3G   1% /run
+/dev/nvme0n1p5  201G   27G  164G  15% /
+tmpfs            32G  379M   31G   2% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p6  256G   29G  214G  12% /home
+/dev/nvme0n1p1   96M   35M   62M  37% /boot/efi
+tmpfs           6.3G  224K  6.3G   1% /run/user/1000
+/dev/nvme1n1p2  1.9T  353G  1.5T  19% /media/jason/F
+/dev/nvme0n1p3  1.4T  473G  902G  35% /media/jason/6CACEABAACEA7E48
