@@ -21,7 +21,8 @@ int main(void) {
   file_content = (char*) calloc(file_size + 5, sizeof(char));
   fread(file_content, file_size, sizeof(char), fp);
   fclose(fp);
-			      
+
+  printf("Enter your username: ");
   scanf("%s", username); /* get the username from standard input */
 
   char* tok = strtok(file_content, TOK_DELIMITER);
