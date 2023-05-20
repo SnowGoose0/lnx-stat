@@ -16,9 +16,6 @@ int main(void) {
   FILE* fp;
   int file_size;
   char* file_content;
-
-  int* usage;
-  int usage_len;
   
   system(WRITE_FILE_CMD);
 
