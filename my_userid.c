@@ -4,7 +4,7 @@
 
 #define PW_PATH         "/etc/passwd"
 #define TOK_DELIMITER   "\n"
-#define ARG_SIZE        300
+#define ARG_SIZE        102400
 
 int main(void) {
 
